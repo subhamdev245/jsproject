@@ -1,0 +1,31 @@
+body{
+    
+    color: #fff;
+    margin: 0px;
+}
+.Navbar{
+    color: #fff;
+    text-decoration: none;
+    list-style: none;
+    background-color: #758283 ;
+    height: 15vh;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.link{
+  border-radius: 8px;
+  padding: 20px;
+  background-color: transparent;
+  height: 80px;
+  text-align: center;
+  margin-top: 40px;
+  cursor: pointer;
+}
+.anav{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 2rem;
+}

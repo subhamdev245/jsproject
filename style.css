@@ -11,6 +11,7 @@ body{
     height: 15vh;
     display: flex;
     justify-content: space-evenly;
+    
 }
 
 .link{
@@ -31,4 +32,40 @@ body{
 
 .link:hover {
     background-color: #6A1B4D;
+}
+
+.head{
+    font-size: 50px ;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;   
+    text-decoration: underline;
+    margin: 10px;
+}
+
+.projecttitle{
+    border: 2px solid ;
+    width: 400px;
+    padding: 20px;
+    font-weight: 900;
+    margin: auto auto;
+    margin-top: 30px;
+    text-align: center;
+    background-color: transparent;
+    color: #fff;
+    font-size: 20px;
+    text-transform: uppercase;
+    /* box-shadow: 20px; */
+}
+
+.projecttitle:hover{
+    cursor: pointer;
+    background-color: #6A1B4D;
+}
+
+.projectlink{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    text-transform: uppercase;
 }
