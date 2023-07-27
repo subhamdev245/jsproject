@@ -1,3 +1,3 @@
 # jsproject
 
-basic js project to hel in DOM manipulation
+basic js project to help me in DOM manipulation
